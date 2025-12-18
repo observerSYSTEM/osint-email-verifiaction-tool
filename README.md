@@ -89,6 +89,19 @@ Planned development stages for this project:
 This roadmap will be updated as development progresses.
 
 
+---
+
+## Usage
+
+### Run Locally
+
+1. Clone or download this repository
+2. Navigate to the source directory:
+   ```bash
+   cd src
+
+
+
 ## Author
 **ObserverAI Systems**  
 Cybersecurity • OSINT • Automation
