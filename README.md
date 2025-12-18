@@ -71,6 +71,24 @@ Features and documentation will be expanded incrementally.
 
 ---
 
+---
+
+## Roadmap
+
+Planned development stages for this project:
+
+- [x] Project setup and documentation
+- [x] Professional README
+- [ ] Core email validation logic
+- [ ] Domain and DNS analysis
+- [ ] Risk scoring and classification
+- [ ] Command-line interface (CLI)
+- [ ] Optional GUI version
+- [ ] Packaging for client delivery
+
+This roadmap will be updated as development progresses.
+
+
 ## Author
 **ObserverAI Systems**  
 Cybersecurity • OSINT • Automation
